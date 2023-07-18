@@ -1,1 +1,1 @@
-# A basic oprator systwem.
+# A basic operating system.
